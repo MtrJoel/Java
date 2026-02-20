@@ -16,3 +16,9 @@ Construir bases sólidas en Java a través de la práctica constante, resolviend
 - Mini proyectos
 
 ## 🗂️ Estructura del repositorio
+- Main.java
+- src /
+  - Operadores/
+     - Operadores.java
+- Strings /
+   - Cadenas.java
