@@ -1,4 +1,4 @@
-package Strings;
+package src.Strings;
 
 public class Cadenas {
     public static void textos(){
