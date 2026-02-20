@@ -20,5 +20,7 @@ Construir bases sólidas en Java a través de la práctica constante, resolviend
 - src /
   - Operadores/
      - Operadores.java
-- Strings /
-   - Cadenas.java
+  - Strings /
+     - Cadenas.java
+  - Condicionales
+    - Condicionales.java
