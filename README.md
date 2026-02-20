@@ -18,9 +18,9 @@ Construir bases sólidas en Java a través de la práctica constante, resolviend
 ## 🗂️ Estructura del repositorio
 - Main.java
 - src /
-  - Operadores/
+  - Operadores
      - Operadores.java
-  - Strings /
+  - Strings
      - Cadenas.java
   - Condicionales
     - Condicionales.java
